@@ -1,7 +1,18 @@
 .top-banner {
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
+    align-items: center;
+    
 }
 .green {
     color: green;
+}
+.banner-left {
+    width: 50%;
+}
+.banner-right{
+    width: 40%;
+}
+.banner-right img{
+    width: 100%;
 }
