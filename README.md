@@ -1,6 +1,6 @@
-# Product Analysis Website
+# Plant Paradise
 
-## [Private repo link](https://classroom.github.com/a/8blYLhL7)
+## [Live link](https://classroom.github.com/a/8blYLhL7)
 [https://classroom.github.com/a/8blYLhL7](https://classroom.github.com/a/8blYLhL7)
 
 
