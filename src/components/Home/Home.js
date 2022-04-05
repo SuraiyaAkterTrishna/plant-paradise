@@ -5,6 +5,7 @@ import { faLeaf, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import img from '../../indoorPlant.png';
 import useReviews from '../../utilities/useReviews';
 import Review from '../Review/Review';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
@@ -36,7 +37,7 @@ const Home = () => {
                 }
             </div>
             <div className="d-flex flex-row-reverse">
-                <button className='btn btn-success'>See All Reviews <FontAwesomeIcon icon={faArrowRight}></FontAwesomeIcon> </button>
+                <Link to='/reviews'><button className='btn btn-success'>See All Reviews <FontAwesomeIcon icon={faArrowRight}></FontAwesomeIcon> </button></Link>
             </div>
         </div>
     );
