@@ -1,7 +1,7 @@
 # Plant Paradise
 
 ## [Live link](https://plant-paradise.netlify.app/)
-[https://classroom.github.com/a/8blYLhL7](https://classroom.github.com/a/8blYLhL7)
+[https://plant-paradise.netlify.app/](https://plant-paradise.netlify.app/)
 
 --------------
 ### Project Details
