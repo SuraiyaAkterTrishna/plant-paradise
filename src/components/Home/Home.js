@@ -7,7 +7,6 @@ import useReviews from '../../utilities/useReviews';
 import Review from '../Review/Review';
 import { Link } from 'react-router-dom';
 
-
 const Home = () => {
     const [reviews, setReviews] = useReviews();
     return (
@@ -27,7 +26,7 @@ const Home = () => {
                     <img src={img} alt="" />
                 </div>
             </div>
-            <h1 className='mb-4'>Client Reviews:</h1>
+            <h1 className='mb-4'>Client  Reviews:</h1>
             <div className="card-deck mb-5">
                 {
                     reviews.map(review => <Review
